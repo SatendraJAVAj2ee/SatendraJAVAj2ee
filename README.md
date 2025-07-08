@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/5d540407-cbc1-435b-9a6a-6b807055432d)
+![logo](https://github.com/user-attachments/assets/60ca68c1-d9b8-4a79-83d5-b0afbc2a651c)
+
 
 
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
