@@ -1,14 +1,10 @@
-![IMG_20250827_120841g](https://github.com/user-attachments/assets/9853c64e-0b44-4380-bf31-54e6d00a6868)
-
-
-
-
+<div align="center">
+  <!-- Right side: Logo -->
+  <img src="https://github.com/user-attachments/assets/109a3499-08f4-4a67-a1e5-686ff012b148" alt="Logo" width="420" align="Right"/>
+</div>
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satendrajavaj2ee&label=Profile%20views&color=0e75b6&style=flat" alt="satendrajavaj2ee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satendrajavaj2ee" alt="satendrajavaj2ee" /></a> </p>
