@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Right side: Logo -->
   <img src="https://github.com/user-attachments/assets/109a3499-08f4-4a67-a1e5-686ff012b148" alt="Logo" width="420" align="Right"/>
+  <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
