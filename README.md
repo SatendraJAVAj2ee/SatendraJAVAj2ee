@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/user-attachments/assets/109a3499-08f4-4a67-a1e5-686ff012b148)
+
 
 
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
