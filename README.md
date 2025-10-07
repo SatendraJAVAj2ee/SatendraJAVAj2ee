@@ -1,10 +1,12 @@
-![logo](https://github.com/user-attachments/assets/60ca68c1-d9b8-4a79-83d5-b0afbc2a651c)
+![IMG_20250827_120841g](https://github.com/user-attachments/assets/9853c64e-0b44-4380-bf31-54e6d00a6868)
+
 
 
 
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satendrajavaj2ee&label=Profile%20views&color=0e75b6&style=flat" alt="satendrajavaj2ee" /> </p>
